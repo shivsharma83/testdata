@@ -1,0 +1,405 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://rambo-annotated.tools.expedia.com/api/applications?active=true"
+    }
+  ],
+  "content": [
+    {
+      "name": "trip-notification-service",
+      "applicationStack": "Trip_notification_service",
+      "team": "Mobile",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/trip-notification-service",
+      "serviceTier": "Tier 2",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": true,
+      "ctoDirect": "Nitish Khanapure",
+      "department": "Exp Eng Mobile India",
+      "costCenter": "10422",
+      "lineOfBusiness": "Shared Customer Features",
+      "product": "Mobile",
+      "teamContactDl": "mapi_platform@expedia.com",
+      "dataCategory": "Confidential",
+      "crownJewelCategory": "7",
+      "id": 1,
+      "active": true,
+      "segments": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/1"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/14"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/116"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/1/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "cpa-billing-daily-aggregation-job-submitter",
+      "applicationStack": "Cloud Portfolio Analyzer CPA",
+      "team": "Cloud Acceleration Team (CAT)",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/cpa-billing-daily-aggregation-job-submitter.git",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": false,
+      "ctoDirect": "Jun-Dai Bates-Kobashigawa",
+      "department": "Exp Eng Platform US",
+      "costCenter": "10357",
+      "lineOfBusiness": "Shared Platform and Operations",
+      "product": "Cloud",
+      "teamContactDl": "EWECat@expedia.com",
+      "dataCategory": "",
+      "crownJewelCategory": "99",
+      "id": 7,
+      "active": true,
+      "segments": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/7"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/2"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/17"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/7/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "cpa-billing-data-collector",
+      "applicationStack": "Cloud Portfolio Analyzer CPA",
+      "team": "Cloud Acceleration Team (CAT)",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/cpa-billing-data-collector.git",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": false,
+      "ctoDirect": "Jun-Dai Bates-Kobashigawa",
+      "department": "Exp Eng Platform US",
+      "costCenter": "10357",
+      "lineOfBusiness": "Shared Platform and Operations",
+      "product": "Cloud",
+      "teamContactDl": "EWECat@expedia.com",
+      "dataCategory": "",
+      "crownJewelCategory": "99",
+      "id": 10,
+      "active": true,
+      "segments": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/10"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/2"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/17"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/10/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "cpa-billing-elasticsearch-job-submitter",
+      "applicationStack": "Cloud Portfolio Analyzer CPA",
+      "team": "Cloud Acceleration Team (CAT)",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/cpa-billing-elasticsearch-job-submitter.git",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": false,
+      "ctoDirect": "Jun-Dai Bates-Kobashigawa",
+      "department": "Exp Eng Platform US",
+      "costCenter": "10357",
+      "lineOfBusiness": "Shared Platform and Operations",
+      "product": "Cloud",
+      "teamContactDl": "EWECat@expedia.com",
+      "dataCategory": "",
+      "crownJewelCategory": "99",
+      "id": 13,
+      "active": true,
+      "segments": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/13"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/2"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/17"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/13/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "cpa-billing-file-job-submitter",
+      "applicationStack": "Cloud Portfolio Analyzer CPA",
+      "team": "Cloud Acceleration Team (CAT)",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/cpa-billing-file-job-submitter.git",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": false,
+      "ctoDirect": "Jun-Dai Bates-Kobashigawa",
+      "department": "Exp Eng Platform US",
+      "costCenter": "10357",
+      "lineOfBusiness": "Shared Platform and Operations",
+      "product": "Cloud",
+      "teamContactDl": "EWECat@expedia.com",
+      "dataCategory": "",
+      "crownJewelCategory": "99",
+      "id": 16,
+      "active": true,
+      "segments": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/16"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/2"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/17"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/16/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "pinkfloyd-service",
+      "applicationStack": "Pink Floyd",
+      "team": "Cloud Acceleration Team (CAT)",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/pinkfloyd-service",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": false,
+      "ctoDirect": "Jun-Dai Bates-Kobashigawa",
+      "department": "Exp Eng Platform US",
+      "costCenter": "10357",
+      "lineOfBusiness": "Shared Platform and Operations",
+      "product": "Cloud",
+      "teamContactDl": "EWECat@expedia.com",
+      "dataCategory": "",
+      "crownJewelCategory": "99",
+      "id": 19,
+      "active": true,
+      "segments": [
+        "ewe"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/19"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/5"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/17"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/19/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "cpa-billing-file-recorder",
+      "applicationStack": "Cloud Portfolio Analyzer CPA",
+      "team": "Cloud Acceleration Team (CAT)",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/cpa-billing-file-recorder.git",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": false,
+      "ctoDirect": "Jun-Dai Bates-Kobashigawa",
+      "department": "Exp Eng Platform US",
+      "costCenter": "10357",
+      "lineOfBusiness": "Shared Platform and Operations",
+      "product": "Cloud",
+      "teamContactDl": "EWECat@expedia.com",
+      "dataCategory": "",
+      "crownJewelCategory": "99",
+      "id": 22,
+      "active": true,
+      "segments": [],
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/22"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/2"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/17"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/22/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "lucid",
+      "applicationStack": "Attach Messaging Service",
+      "team": "krazyglue",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/lucid",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": null,
+      "ctoDirect": "Nitish Khanapure",
+      "department": "Exp Eng Multi-Item Trip US",
+      "costCenter": "10503",
+      "lineOfBusiness": "Shared Customer Features",
+      "product": "Multi Item Trip",
+      "teamContactDl": "krazycore@expedia.com",
+      "dataCategory": "Public",
+      "crownJewelCategory": "Category 99",
+      "id": 24,
+      "active": true,
+      "segments": null,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/24"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/13"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/77"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/24/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "sample-metadata-config",
+      "applicationStack": "NotSet",
+      "team": "NotSet",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/sample-metadata-config.git",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": null,
+      "ctoDirect": "Jun-Dai Bates-Kobashigawa",
+      "department": "Exp Eng Cloud Acceleration US",
+      "costCenter": "10678",
+      "lineOfBusiness": "Shared Platform and Operations",
+      "product": "Cloud",
+      "teamContactDl": "RamboMetadataNotSetTeam@expedia.com",
+      "dataCategory": "Default",
+      "crownJewelCategory": "Category 99",
+      "id": 27,
+      "active": true,
+      "segments": null,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/27"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/1"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/118"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/27/dataPrivacy"
+        }
+      ]
+    },
+    {
+      "name": "mipq",
+      "applicationStack": "Multi-Item Pricing Qualifications",
+      "team": "krazyglue",
+      "repoSource": "https://ewegithub.sb.karmalab.net/EWE/mipq",
+      "serviceTier": "Tier 3",
+      "brand": "Brand Expedia",
+      "isPCI": false,
+      "isGDPR": true,
+      "ctoDirect": "Nitish Khanapure",
+      "department": "Exp Eng Multi-Item Trip US",
+      "costCenter": "10503",
+      "lineOfBusiness": "Shared Customer Features",
+      "product": "Multi Item Trip",
+      "teamContactDl": "krazycore@expedia.com",
+      "dataCategory": "Confidential",
+      "crownJewelCategory": "7",
+      "id": 57,
+      "active": true,
+      "segments": [
+        "ewe"
+      ],
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/57"
+        },
+        {
+          "rel": "applicationStack",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applicationStacks/12"
+        },
+        {
+          "rel": "team",
+          "href": "https://rambo-annotated.tools.expedia.com/api/teams/77"
+        },
+        {
+          "rel": "dataPrivacy",
+          "href": "https://rambo-annotated.tools.expedia.com/api/applications/57/dataPrivacy"
+        }
+      ]
+    }
+  ]
+}
+Response Code
